@@ -738,7 +738,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.gray {
+    color: #333!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
